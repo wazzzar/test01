@@ -47,8 +47,8 @@
 
 .r30 {
     border-radius: 30px;
-    padding: 35px 20px;
-    height: 295px;
+    padding: 35px 20px 0;
+    height: auto;
 }
 
 .d_ib {
